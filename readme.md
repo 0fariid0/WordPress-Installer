@@ -20,18 +20,4 @@ I hope this helps! Let me know if you have any other questions.
 bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/WordPress-Installer/master/main.sh)
 ```
 
-## Languages
 
-- English
-
-## 🪚 Preview
-<p align="left">
-    <img width="100%" src="https://github.com/user-attachments/assets/ca0296cb-a7a3-4b6c-b3dc-a9aef6f36581" alt="Image">
-</p>
-
-## 🙏 Support with Crypto 
-- USDT (TRC20): `TVUqVMoCEe5DVUoxmPg8MwmgcHvZLqLjr4`
-
-## 📧 Join Telegram Channel
-
-TG : https://t.me/+EpErnDsDPhw3ZThk
