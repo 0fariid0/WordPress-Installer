@@ -17,7 +17,7 @@ I hope this helps! Let me know if you have any other questions.
 ## Install & Upgrade
 
 ```
-bash <(curl -Ls https://raw.githubusercontent.com/dev-ir/WordPress-Installer/master/main.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/0fariid0/WordPress-Installer/master/main.sh)
 ```
 
 
